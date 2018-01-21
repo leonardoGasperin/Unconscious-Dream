@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-
+//testing gitkraken
 namespace UnityStandardAssets.Characters.ThirdPerson
 {
     [RequireComponent(typeof (UnityEngine.AI.NavMeshAgent))]
