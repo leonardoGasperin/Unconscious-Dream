@@ -1,4 +1,4 @@
-Project “Unconscious Dream” GDD
+﻿Project “Unconscious Dream” GDD
 Final Fantasy philosophical theme in a newer RPG Action.
 
 Genre: 3D RPG (Action implement), 3dr person fixed camera. 
@@ -11,10 +11,10 @@ Game Moment: Solve Puzzle's & mysteries and secrets about the world and its hist
 
 Game Summary: The project “Unconscious Dream” is a mix of a Final Fantasy RPG style with an Action-Adventure game parameters to set the player free, it’s remember like the witcher or oblivion games but have a centred history like have too mini games and optional meta game quest relative with determined character on party. The central idea of the development of the play is play a history but u can explore all world too and fell free to it in the being or after the end of game.
 
-Core Player Experience: Sad, Brave Adventure, Learn Reals things
+Core Player Experience: Intellectual, Fantastic, Sad, Brave Adventure.
 Central Theme: Brave hero how need protect the life of him planet/universe only because it’s an important thing. Only for brave Heroes.
 Design Pillar: Put player on a saddest and unjust situations and give to the player the opportunity to resolve this.
-Anticipated Remark-ability: Philosophy and Epics adventure.
+Anticipated Remark-ability: Philosophy and Epics adventure. Like Raul Seixas are talked os from battle how make the MAN(a heroe).
 
 Anticipated Steam Early Access Launch date: 
 
