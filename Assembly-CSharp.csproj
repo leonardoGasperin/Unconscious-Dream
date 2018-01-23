@@ -51,7 +51,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Camera &amp; UI\PlayerHealthBar.cs" />
      <Compile Include="Assets\Pratica em PTBR com leomardo\script\CameraRaio.cs" />
      <Compile Include="Assets\Pratica em PTBR com leomardo\script\CamSeguidora.cs" />
      <Compile Include="Assets\Pratica em PTBR com leomardo\script\Controle.cs" />
@@ -61,7 +60,12 @@
      <Compile Include="Assets\Scripts\CameraRaycaster.cs" />
      <Compile Include="Assets\Scripts\CamFollow.cs" />
      <Compile Include="Assets\Scripts\CursorsAfford.cs" />
+     <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\EnemyHealthBar.cs" />
+     <Compile Include="Assets\Scripts\EnemyUI.cs" />
      <Compile Include="Assets\Scripts\LayerUtility.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\PlayerHealthBar.cs" />
      <Compile Include="Assets\Scripts\PlayerMovimentController.cs" />
      <Compile Include="Assets\Scripts\ThirdPersonCharacter.cs" />
  <Reference Include="Facebook.Unity.Settings">

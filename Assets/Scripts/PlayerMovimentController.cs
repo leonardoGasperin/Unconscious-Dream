@@ -12,7 +12,7 @@ public class PlayerMovimentController : MonoBehaviour
 	bool controllerMode = false;//check if is mouse&keyboard or gamepad
 	bool jump;
 	bool crounch;
-	Vector3 currentDestination = Vector3.zero, clickPoint;
+	Vector3 currentDestination, clickPoint;
 
 	private void Start()
     {
